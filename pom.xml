@@ -94,17 +94,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>com.okta.sdk</groupId>
-			<artifactId>okta-sdk-api</artifactId>
-			<version>${okta.sdk.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.okta.sdk</groupId>
-			<artifactId>okta-sdk-impl</artifactId>
-			<version>${okta.sdk.version}</version>
-			<scope>runtime</scope>
-		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin -->
 		<dependency>
 			<groupId>org.jacoco</groupId>
