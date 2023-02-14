@@ -5,7 +5,7 @@ testing, mocking, and monitoring. The application exposes a REST API for getting
 
 ### Development
 
-The application was developed using Spring Boot version 2.5.4 and Java 17. The following libraries were used for the
+The application was developed using Spring Boot version 3.0.2 and Java 17. The following libraries were used for the
 different functionalities:
 
 * Jacoco for code coverage: Jacoco is a code coverage library that was used to ensure that the codebase is well tested.
